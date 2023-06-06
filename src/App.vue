@@ -1,7 +1,7 @@
 
 
 <template>
- <h1 class="bg-blue-500">APP.VUE</h1>
+    <router-view />
 </template>
 <script setup>
 
